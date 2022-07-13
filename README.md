@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prashant Soni
-- 👀 I’m interested in Software engineering with Primary focus on Front end.
+- 👀 I'm a Software Engineer with Primary focus on Front end.
 - 📫 How to reach me - prashantsoni1242@gmail.com
 
 <!---
